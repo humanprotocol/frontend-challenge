@@ -23,7 +23,7 @@ You can go with a 2-pages or single page architecture, the choice is yours. Same
 - [ ] Connect a wallet
 - [ ] Read a contract
 - [ ] Write on a contract
-- [ ] React & NextJS
+- [ ] React
 - [ ] Material UI
 
 Bonus: display user ENS
