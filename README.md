@@ -8,7 +8,7 @@ You can fork this repository which contains all the dependencies you'll need: [R
 
 **Assignment**
 
-We created a contract [0xd054e5724d7d595b72abbb0c460e0221cd859c8f](https://goerli.etherscan.io/address/0xd054e5724d7d595b72abbb0c460e0221cd859c8f) on Goerli testnet, and we need a Dapp to interact with it.
+Please create a Dapp to interact with [0xd054e5724d7d595b72abbb0c460e0221cd859c8f](https://goerli.etherscan.io/address/0xd054e5724d7d595b72abbb0c460e0221cd859c8f) on Goerli testnet.
 
 Please build an app that:
 
